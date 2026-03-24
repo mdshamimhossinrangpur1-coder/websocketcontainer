@@ -35,4 +35,3 @@ echo "Setting up Python venv..."
 source venv/bin/activate
 pip install -q --upgrade pip && pip install -q python-telegram-bot ruamel.yaml psutil PyYAML certbot
 # ── Done ──────────────────────────────────────────────────────────────────────
-./websocket
